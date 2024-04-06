@@ -1,0 +1,2 @@
+# Photographer-Portfolio-Hamburger-Menu-Implementation
+The Photographer Portfolio project focuses on creating a webpage using vanilla CSS and HTML to showcase a photographer's portfolio. The unique feature of this webpage is the implementation of a hamburger menu style for navigation. The project aims to provide an elegant and intuitive user experience for visitors to explore the photographer's work.
